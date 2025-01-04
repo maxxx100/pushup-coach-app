@@ -1,5 +1,0 @@
-/src
-  - App.js
-/public
-  - index.html (optional, leave blank or use the default React template)
-package.json (React's basic package.json setup)
